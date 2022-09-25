@@ -1,0 +1,10 @@
+C:\Users\OMISTAJA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\OMISTAJA\CLionProjects\Ohjelmointi 1 Oulun Yliopisto" -B "C:\Users\OMISTAJA\CLionProjects\Ohjelmointi 1 Oulun Yliopisto\cmake-build-debug"
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1 Oulun Yliopisto/cmake-build-debug

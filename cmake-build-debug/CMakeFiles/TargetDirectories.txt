@@ -1,0 +1,3 @@
+C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1 Oulun Yliopisto/cmake-build-debug/CMakeFiles/ekstrapalkka_c_.dir
+C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1 Oulun Yliopisto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1 Oulun Yliopisto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
